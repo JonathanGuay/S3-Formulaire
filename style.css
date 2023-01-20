@@ -1,15 +1,15 @@
 input{
     margin-left: 10px;
     margin-bottom: 5px;
-    border: green 2px solid;
+    border: darkgreen 2px solid;
     color: blue;
     width: 220px;
 }
 .beau{
     margin-top: 30px;
-    color: blue;
+    color: brown;
     background-color: burlywood;
-    border: red solid 1px;
+    border: black solid 1px;
     width: 120px;
     height: 50px;
 }
@@ -17,4 +17,12 @@ form{
     background-color: darkgrey;
     padding: 20px;
     width: 500px;
+    display: block;
+}
+.sexe{
+    width: 20px;
+    margin-left: 0;
+}
+label{
+    padding-right: 20px;
 }
